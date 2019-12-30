@@ -6,4 +6,4 @@
 Just right-click on the selected selenoid session and click on  'Close  Selenoid session'
 ```
 
-![Close Selenoid session animation](docs/img/close_selenoid_session.gif){:height="80%" width="80%"}
+![Close Selenoid session animation](docs/img/close_selenoid_session.gif)
