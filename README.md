@@ -1,3 +1,9 @@
-### Simple browser extension that allows you to close Selenoid session
+### Simple browser extension that allows you to force close Selenoid session
 
-#### Tested in Chrome 78.0.3904.108 with Selenoid v1.9.3
+>Sometimes there is a need to force close Selenoid session. 
+>This extension could help you with it.
+```sh
+Just right-click on the selected selenoid session and click on  'Close  Selenoid session'
+```
+
+![Close Selenoid session animation](docs/img/close_selenoid_session.gif)
