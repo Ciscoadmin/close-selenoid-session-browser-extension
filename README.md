@@ -10,14 +10,19 @@ Just right-click on the selected selenoid session and click on  'Close  Selenoid
 
 
 ### Install in Firefox:
+
 >Open 'about:debugging#/runtime/this-firefox'  in your FF
+
 >Click on 'Load Temporary Add-on'
+
 >Select folder with manifest.json for Firefox
 
 
 ### Install in Chrome:
 >Open 'chrome://extensions/'
+
 >Check the box for Developer mode in the top right. 
+
 >Click the Load unpacked extension button and select the unzipped folder for your extension to install it.
 
 
