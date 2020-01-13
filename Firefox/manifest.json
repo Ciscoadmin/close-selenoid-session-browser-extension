@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "Close Selenoid session",
+  "version": "1.0",
+  "author": "GoDZill",
+  "description": "Sometimes you need to close selenoid session. Now, all you need is left button click on a selenoid session and choose 'Close Selenoid session'. Tested in Chrome 78.0.3904.108 with Selenoid v1.9.3",
+  "homepage_url": "https://github.com/Ciscoadmin/close-selenoid-session-browser-extension",
+  "icons": {
+    "48": "icons/bomb-64x64.png"
+  },
+
+    
+  "permissions": [
+        "activeTab",
+        "contextMenus",
+        "http://*/*",
+        "https://*/*"
+  ],
+
+
+  "background": {
+    "scripts": ["background.js"]
+  }
+    
+}
